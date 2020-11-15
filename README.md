@@ -19,4 +19,5 @@ Once the board is full by the definition of this algorithm we have found a solut
 <br>
 
 Language Used : Python
+<br>
 Modules Used : Pygame for GUI

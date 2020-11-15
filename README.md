@@ -17,3 +17,6 @@ Check if that digit is valid in the current spot based on the current board
 <br>
 Once the board is full by the definition of this algorithm we have found a solution.
 <br>
+
+Language Used : Python
+Modules Used : Pygame for GUI
